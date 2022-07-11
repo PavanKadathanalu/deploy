@@ -1,0 +1,13 @@
+Keras 
+Keras-Applications==1.0.8
+Keras-Preprocessing
+Flask==2.1.2
+tensorflow-estimator 
+tensorflow-hub 
+matplotlib 
+matplotlib-inline
+numpy
+gunicorn==20.1.0
+h5py
+Jinja2
+jinja2-time
